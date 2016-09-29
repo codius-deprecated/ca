@@ -2,7 +2,6 @@
 
 const MockIncomingMessage = require('readable-mock-req')
 const MockServerResponse = require('mock-res')
-const EventEmitter = require('events').EventEmitter
 
 exports.simulateRequest = function * (callback, requestOptions) {
   return new Promise((resolve, reject) => {
