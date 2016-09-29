@@ -1,5 +1,16 @@
 # Codius Certificate Authority
 
+[![npm][npm-image]][npm-url] [![JavaScript Style Guide][standard-image]][standard-url] [![CircleCI][circle-image]][circle-url] [![Codecov][codecov-image]][codecov-url]
+
+[npm-image]: https://img.shields.io/npm/v/codius-ca.svg?style=flat
+[npm-url]: https://npmjs.org/package/codius-ca
+[standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg
+[standard-url]: http://standardjs.com/
+[circle-image]: https://circleci.com/gh/codius/ca.svg?style=shield
+[circle-url]: https://circleci.com/gh/codius/ca
+[codecov-image]: https://codecov.io/gh/codius/ca/branch/master/graph/badge.svg
+[codecov-url]: https://codecov.io/gh/codius/ca
+
 A Codius Certificate Authority is responsible for issuing unique certificates to running Codius instances.
 
 ## Setup
